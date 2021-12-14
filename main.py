@@ -1,7 +1,7 @@
-from cogs import *
-from cogs.config import *
-from cogs.boot import Boot
-from cogs import fonts
+from core import *
+from core.config import *
+from core.boot import Boot
+from core import fonts
 
 import os
 import colorama
